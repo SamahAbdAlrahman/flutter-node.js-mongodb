@@ -1,5 +1,6 @@
-# GoFit-Latest version
-nodejs flutter mongodb
+Link to the project presentation :
+https://www.canva.com/design/DAF6609Bzs0/0x5_jCqbJw1AKS6TAzC7qQ/edit?utm_content=DAF6609Bzs0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 GoFit mobile app seamlessly integrating fitness and nutrition to promote overall health and well-being.
 
 There are four categories of users in the app, each with unique capabilities. The financial, administrative and operational components of the platform are managed by the administrator.
